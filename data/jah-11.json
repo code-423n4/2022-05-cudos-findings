@@ -3,7 +3,7 @@
   "handle": "jah",
   "address": "0x6ae089D92a2E88CA18a2d463aD32849cB41C4D0f",
   "risk": "3",
-  "title": "Malicious Validators can DOS The contract ",
+  "title": "Malicious Validators can set himself as a validator for ever",
   "issueId": 11,
   "issueUrl": "https://github.com/code-423n4/2022-05-cudos-findings/issues/11"
 }
