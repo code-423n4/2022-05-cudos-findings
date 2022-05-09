@@ -1,0 +1,9 @@
+{
+  "contest": 116,
+  "handle": "GermanKuber",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "2",
+  "title": "Wrong amount will be passed with fee on transfer tokens",
+  "issueId": 170,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cudos-findings/issues/170"
+}
