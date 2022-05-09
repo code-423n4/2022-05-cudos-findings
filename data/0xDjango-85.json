@@ -1,0 +1,9 @@
+{
+  "contest": 116,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "2",
+  "title": "Lack of minimum amount checks make griefing attack possible",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cudos-findings/issues/85"
+}
