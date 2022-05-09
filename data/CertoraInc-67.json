@@ -1,0 +1,9 @@
+{
+  "contest": 116,
+  "handle": "CertoraInc",
+  "address": "0x009dA689fE16166448B0D6C0f5D2F82033A16B8A",
+  "risk": "2",
+  "title": "Lack of check that validator is not address(0) is risky",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cudos-findings/issues/67"
+}
