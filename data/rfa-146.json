@@ -1,0 +1,9 @@
+{
+  "contest": 116,
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "2",
+  "title": "Lack checks of `_newValset.valsetNonce` in `updateValset()` parameter",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cudos-findings/issues/146"
+}
