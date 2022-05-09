@@ -1,0 +1,9 @@
+{
+  "contest": 116,
+  "handle": "0x1337",
+  "address": "0x4C024e5B3AE9B56319ed7c2D0F73A8535DDFF47e",
+  "risk": "3",
+  "title": "No 1-to-1 Peg Between Tokens Locked on Cudos Chain and Corresponding Synthetic Tokens on the Ethereum Chain",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cudos-findings/issues/50"
+}
