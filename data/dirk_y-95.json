@@ -1,0 +1,9 @@
+{
+  "contest": 116,
+  "handle": "dirk_y",
+  "address": "0x957342FeBe16d72cE462Ffc649Bfc6fAF96e2da3",
+  "risk": "2",
+  "title": "No limit on nonces can cause Gravity bridge to be bricked",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cudos-findings/issues/95"
+}
