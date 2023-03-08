@@ -1,3 +1,11 @@
+---
+sponsor: "Cudos"
+slug: "2022-05-cudos"
+date: "2022-09-02"
+title: "Cudos contest"
+findings: "https://github.com/code-423n4/2022-05-cudos-findings/issues"
+contest: 116
+---
 
 # Overview
 
